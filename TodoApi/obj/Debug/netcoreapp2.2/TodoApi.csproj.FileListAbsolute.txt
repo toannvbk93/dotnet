@@ -1,0 +1,14 @@
+/Volumes/learn/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/Volumes/learn/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/Volumes/learn/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/Volumes/learn/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/Volumes/learn/dotnet/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/Volumes/learn/dotnet/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
